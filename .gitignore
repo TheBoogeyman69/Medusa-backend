@@ -3,3 +3,6 @@ app/.env
 app/.env
 app/.env
 app/.env
+medusa-env/
+*.pyc
+__pycache__/
